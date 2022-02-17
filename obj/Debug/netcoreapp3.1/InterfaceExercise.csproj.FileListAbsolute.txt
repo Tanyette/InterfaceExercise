@@ -1,0 +1,14 @@
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.exe
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.deps.json
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.json
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.runtimeconfig.dev.json
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\bin\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csproj.AssemblyReference.cache
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfoInputs.cache
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.AssemblyInfo.cs
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.csproj.CoreCompileInputs.cache
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.dll
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.pdb
+C:\Users\bwaff\repos\InterfaceExercise\InterfaceExercise\obj\Debug\netcoreapp3.1\InterfaceExercise.genruntimeconfig.cache
